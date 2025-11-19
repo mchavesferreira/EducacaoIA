@@ -1,14 +1,3 @@
- **a definição de personas** para guiar a IA na execução de tarefas específicas com mais assertividade.
-
-A seguir, apresento:
-
-1. ✅ Uma **versão adaptada do conteúdo para aplicação em educação**.
-2. 🧠 Um **prompt otimizado para educadores e estudantes** aplicarem a técnica de persona.
-3. 💡 Breve explicação de como e por que funciona.
-
----
-
-## ✅ VERSÃO ADAPTADA PARA APLICAÇÃO EM EDUCAÇÃO
 
 ### 🎓 **Introdução: Criando Personas para Aprendizagem com ChatGPT**
 
