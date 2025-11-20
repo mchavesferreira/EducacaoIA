@@ -17,3 +17,14 @@ Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2
 RAG indexação 
 ## Cromadb
 https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide
+
+Ferramentas de pesquisa
+
+https://renatosvmor.github.io/pages/resources-and-tools.html
+
+
+MDLText  https://github.com/renatosvmor/MDLText
+
+ML-MDLText https://github.com/m-bittencourt/ML-MDLText/
+
+https://github.com/renatosvmor?tab=repositories
