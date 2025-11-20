@@ -14,3 +14,6 @@ Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2
 
 
 
+RAG indexação 
+## Cromadb
+https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide
