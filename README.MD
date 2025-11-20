@@ -13,6 +13,8 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
 
+Mini agentes
+https://github.com/maponti/langgraph_shortcourse
 
 RAG indexação 
 ## Cromadb
