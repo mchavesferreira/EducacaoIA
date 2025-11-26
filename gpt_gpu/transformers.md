@@ -38,6 +38,13 @@ O Transformer tenta entender isso olhando o **contexto completo** da frase, e n�
 
 ---
 
+### Visualização gráfica sobre transformes
+
+*  https://bbycroft.net/llm
+
+*  https://poloclub.github.io/transformer-explainer/
+
+
 ### 🎯 Por que o Transformer é tão poderoso?
 
 * Ele entende o **contexto** de forma mais profunda.
