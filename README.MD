@@ -24,6 +24,12 @@ Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são transformers</a>
 
+### Visualização gráfica sobre transformes
+
+-  https://bbycroft.net/llm
+
+-  https://poloclub.github.io/transformer-explainer/
+
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
