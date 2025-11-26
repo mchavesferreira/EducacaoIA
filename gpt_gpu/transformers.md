@@ -1,7 +1,5 @@
 # Transformers
 
-
-
 ---
 
 ### 🧠 O que é *Transformer*?
@@ -52,8 +50,6 @@ O Transformer tenta entender isso olhando o **contexto completo** da frase, e n�
 * Ele funciona muito bem com **textos longos**.
 
 ---
-
-Se quiser, posso mostrar um exemplo visual de como o "attention" funciona ou comparar Transformer com modelos antigos. Quer ver isso?
 
 O modelo GPT (Generative Pre-trained Transformer) é baseado na arquitetura Transformer, que foi originalmente proposta em um artigo chamado *Attention is All You Need* (Vaswani et al., 2017).
 
@@ -192,8 +188,4 @@ Quando você faz uma pergunta para o GPT, por exemplo, o texto que você digita 
 
 Então, o **prompt** representa o **contexto de entrada** para o modelo, que utiliza o Decoder para gerar uma saída com base nesse contexto.
 
-### Resumo:
-
-* O GPT-3.5 usa **somente o Decoder** para tanto o pré-treinamento quanto a inferência. Durante o treinamento, o modelo aprende os pesos para prever o próximo token com base no contexto dos tokens anteriores.
-* O **prompt** é a **entrada** que você fornece ao modelo durante a inferência, e é utilizado para guiar o modelo a gerar uma resposta apropriada com base no que foi aprendido durante o treinamento.
 
