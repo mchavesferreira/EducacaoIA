@@ -9,7 +9,7 @@ Neste repositório apresento links, tutoriais sobre as IAs generativas e como ut
 
 ## Chat para Cursos IFSP Catanduva (GPTs Custom)
 
-Criei utilizando as principais plataformas de IA, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva utilizando RAG sem codificação.
+Criei, com o apoio das principais plataformas de Inteligência Artificial, um ambiente de consulta que permite acessar informações sobre os cursos do IFSP Catanduva utilizando técnicas de RAG (Retrieval-Augmented Generation), sem a necessidade de qualquer codificação.
 
 Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments 
 
