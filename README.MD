@@ -26,7 +26,7 @@ Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
-- a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md>Guia de prompts utilizados para construção dos GPTs Custom</a>
 
