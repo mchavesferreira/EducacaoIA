@@ -1,17 +1,16 @@
 
 # Palestra Curso de capacitação: Utilizando ferramentas de IA na educação
 
-## Marcos Aparecido Chaves Ferreira
+## Autor: Marcos Aparecido Chaves Ferreira
 
 
 Neste repositório apresento links, tutoriais sobre as IAs generativas e como utilizá-las da melhor forma na atividade docente.
 
 ## <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/Artigo_DeepResearch_IA_na_Educacao.md> Artigo: Guia Prático de Inteligência Artificial para Professores do Ensino Médio e Técnico </a>
 
-## RAG sem codificar
+## Cursos IFSP Catanduva (GPTs Custom)
 
 Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva
-
 
 Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments
 
@@ -21,4 +20,8 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
-- Como foi construído: 
+## Como utilizar RAG sem condificação nas LLM comerciais
+
+<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md> promts de busca</a>
+
+
