@@ -2,10 +2,6 @@
 
 ## Autor: Marcos Aparecido Chaves Ferreira
 
----
-
-# Guia de Uso de IA na Educação
-
 Este repositório reúne links e tutoriais sobre **IA generativa** e como aplicá-la de forma prática na atividade docente.
 
 ---
