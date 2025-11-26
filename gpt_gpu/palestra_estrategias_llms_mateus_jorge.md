@@ -240,8 +240,6 @@ São LLMs capazes de **tomar decisões e executar ações** (como chamar APIs ou
 ### 🔗 MCP
 Protocolo que permite a um agente **descobrir automaticamente** quais rotas e funções externas estão disponíveis.
 
-<img width="1642" height="950" alt="image" src="https://github.com/user-attachments/assets/0108c380-badc-4eb4-a183-669e885c394c" />
-
 ---
 
 ## 🏢 LLMs no Contexto Industrial
