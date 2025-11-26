@@ -51,11 +51,11 @@ Esses chats utilizam **RAG (Retrieval-Augmented Generation)**, sem necessidade d
 
 A ferramenta **NotebookLM** ganhou destaque nas notícias no final de novembro de 2025 com o lançamento de um novo recurso: a criação automática de **infográficos** e **apresentações** utilizando imagens geradas pelo modelo **NanoBanana**, o novo gerador multimodal da plataforma. Experimente a novidade e explore suas possibilidades.
 
-# Boas Práticas de Prompt (resumo)
+## Boas Práticas de Prompt (resumo)
 
 **Objetivo:** obter respostas úteis, verificáveis e no formato desejado, com o mínimo de retrabalho.
 
-## Estrutura rápida de prompt
+### Estrutura rápida de prompt
 
 Use frases curtas e diretas:
 
@@ -67,7 +67,7 @@ Use frases curtas e diretas:
 6. **Tom/Idioma:** formal, simples, técnico, PT-BR, etc.
 7. **Critérios de qualidade:** sem invenções, com passos claros.
 
-## Exemplo (educação)
+### Exemplo (educação)
 
 ```
 Eu sou: professor do ensino técnico.
