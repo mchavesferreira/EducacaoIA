@@ -1,4 +1,4 @@
-# Formaão Continuada: Utilizando ferramentas de IA na educação
+# Formação Continuada: Utilizando ferramentas de IA na educação
 
 ## Autor: Marcos Aparecido Chaves Ferreira
 
