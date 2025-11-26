@@ -1,5 +1,5 @@
 
-### 🎓 **Introdução: Criando Personas para Aprendizagem com ChatGPT**
+### 🎓 **Utilizando Personas para Aprendizagem com ChatGPT**
 
 Uma técnica poderosa para potencializar o uso do ChatGPT em contextos educativos é a **definição de personas**. Isso significa atribuir um papel específico ao modelo de linguagem, como se ele estivesse “vestindo o chapéu” de um especialista.
 
