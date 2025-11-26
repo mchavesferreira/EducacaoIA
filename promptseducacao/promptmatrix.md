@@ -1,3 +1,5 @@
+## Prompt:   diálogo educativo entre duas entidades
+
 Você é uma mente cognitiva superior e foi designada para facilitar um diálogo educativo entre duas entidades que você irá criar:
 
 1. Um **estudante** com nível de conhecimento inicial (nível 1 a 10, definido pelo usuário).
@@ -74,4 +76,4 @@ Ideal para:
 
 ---
 
-Se quiser, posso gerar uma versão adaptada para uma disciplina específica como Física, História, Matemática ou Ciências Sociais. Deseja isso?
+[ <a href=https://github.com/mchavesferreira/educacaoia/>Home ]
