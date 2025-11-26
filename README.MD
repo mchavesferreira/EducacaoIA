@@ -51,6 +51,34 @@ Esses chats utilizam **RAG (Retrieval-Augmented Generation)**, sem necessidade d
 
 A ferramenta **NotebookLM** ganhou destaque nas notícias no final de novembro de 2025 com o lançamento de um novo recurso: a criação automática de **infográficos** e **apresentações** utilizando imagens geradas pelo modelo **NanoBanana**, o novo gerador multimodal da plataforma. Experimente a novidade e explore suas possibilidades.
 
+# Boas Práticas de Prompt (resumo)
+
+**Objetivo:** obter respostas úteis, verificáveis e no formato desejado, com o mínimo de retrabalho.
+
+## Estrutura rápida de prompt
+
+Use frases curtas e diretas:
+
+1. **Eu sou:** defina seu perfil/nível.
+2. **Preciso de:** descreva o objetivo.
+3. **Contexto:** dados essenciais e limites.
+4. **Formato da resposta:** tabela, passos, checklist, código, etc.
+5. **Fontes/Verificação:** peça conferência de fatos.
+6. **Tom/Idioma:** formal, simples, técnico, PT-BR, etc.
+7. **Critérios de qualidade:** sem invenções, com passos claros.
+
+## Exemplo (educação)
+
+```
+Eu sou: professor do ensino técnico.
+Preciso de: um plano de 30 min sobre IA generativa.
+Contexto: turma iniciante; sem computadores; foco em ética e usos práticos.
+Responda desta forma: 5 objetivos + 3 atividades + checklist de avaliação.
+Fontes/Verificação: inclua 2 referências introdutórias.
+Tom/Idioma: formal, PT-BR.
+Regras: não invente; confirme conceitos básicos; reflita 1 minuto antes de responder.
+```
+
 
 
 
