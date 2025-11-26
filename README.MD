@@ -10,7 +10,7 @@ Neste repositório apresento links, tutoriais sobre as IAs generativas e como ut
 
 ## Cursos IFSP Catanduva (GPTs Custom)
 
-Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva
+Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva utilizando RAG sem condificação nas LLM comerciais.
 
 Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments
 
@@ -21,10 +21,11 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
 
-Utilizando Personas para Aprendizagem com GPT
+<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
-## Como utilizar RAG sem condificação nas LLM comerciais
+<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
 
 <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md> promts de busca</a>
 
+<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/guia_prompt_chatgpt5.1.md> Orientações para o novo chatgpt 5.1
 
