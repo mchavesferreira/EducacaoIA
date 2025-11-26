@@ -73,7 +73,7 @@ Exemplo:
 
 <details><summary>Clique para ver um exemplo de geografia</summary>
 <p>
-```ruby
+```
 
 Eu sou: professor de Geografia do IFSP–Catanduva, atuando no 2º ano do Curso Técnico em Química Integrado ao Ensino Médio.
 
