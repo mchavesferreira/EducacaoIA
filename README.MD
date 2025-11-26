@@ -114,15 +114,38 @@ Regras:
 </details>
 
 
-```html
-<details>
-<summary>Clique para ver um exemplo de geografia</summary>
 
-    Eu sou: professor de Geografia...
-    (etc.)
+## **Como evitar perdas de contexto e minimizar alucinações durante uma conversa com IA**
 
-</details>
-```
+### **1. Guarde manualmente o texto importante**
+
+Para não depender apenas da janela de contexto da IA, copie e salve os trechos essenciais (instruções, tabelas, listas, resumos) em um arquivo Markdown `.md`.
+Assim, você pode **retomar o trabalho** mais tarde sem risco de perder nada.
+
+> *Recomendação:* Sempre peça ao LLM:
+> **“Resuma e organize o conteúdo essencial em Markdown para eu salvar.”**
+
+
+### **2. Exporte respostas em Markdown (.md)**
+
+Use o formato Markdown para armazenar:
+
+* resumos de projetos
+* especificações
+* scripts
+* orientações importantes
+* prompts mestres
+
+O LLM gera o texto já formatado; você apenas salva como `.md`.
 
 ---
+
+### **3. Exporte dados e tabelas em JSON**
+
+Sempre que trabalhar com listas, tabelas, banco de dados ou estruturas que serão reutilizadas:
+
+* peça para gerar **um único JSON completo**,
+* ou peça para **unificar vários blocos em um único arquivo**.
+
+
 
