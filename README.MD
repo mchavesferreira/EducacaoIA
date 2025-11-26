@@ -49,7 +49,7 @@ Esses chats utilizam **RAG (Retrieval-Augmented Generation)**, sem necessidade d
 
 ## Crie infográficos e Slides com figuras customizadas
 
-A ferramenta **NotebookLM** ganhou destaque nas notícias no final de novembro de 2025 com o lançamento de um novo recurso: a criação automática de **infográficos** e **apresentações** utilizando imagens geradas pelo modelo **NanoBanana**, o novo gerador multimodal da plataforma. Experimente a novidade e explore suas possibilidades.
+A ferramenta **NotebookLM** ganhou destaque nas notícias no final de novembro de 2025 com o lançamento de um novo recurso: a criação automática de **infográficos** e **apresentações** utilizando imagens geradas pelo modelo **NanoBanana**, o novo gerador multimodal da plataforma.<a href=https://notebooklm.google/> Experimente a novidade</a> e explore suas possibilidades.
 
 ## Boas Práticas de Prompt (resumo)
 
