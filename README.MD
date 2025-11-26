@@ -1,8 +1,15 @@
 
-Apresentação
+# Palestra Curso de capacitação: Utilizadno ferramentas de IA na educação
+
+## Marcos Aparecido Chaves Ferreira
 
 
-Projeto IA na educação
+Neste repositório apresento links, tutoriais sobre as IAs generativas e como utilizá-las da melhor forma na atividade docente.
+
+## RAG sem codificar
+
+Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva
+
 
 Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments
 
@@ -12,21 +19,4 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
-
-Mini agentes
-https://github.com/maponti/langgraph_shortcourse
-
-RAG indexação 
-## Cromadb
-https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide
-
-Ferramentas de pesquisa
-
-https://renatosvmor.github.io/pages/resources-and-tools.html
-
-
-MDLText  https://github.com/renatosvmor/MDLText
-
-ML-MDLText https://github.com/m-bittencourt/ML-MDLText/
-
-https://github.com/renatosvmor?tab=repositories
+- Como foi construído: 
