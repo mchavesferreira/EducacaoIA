@@ -7,17 +7,19 @@ Neste repositório apresento links, tutoriais sobre as IAs generativas e como ut
 
 ## <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/Artigo_DeepResearch_IA_na_Educacao.md> Artigo: Guia Prático de Inteligência Artificial para Professores do Ensino Médio e Técnico </a>
 
-## Cursos IFSP Catanduva (GPTs Custom)
+## Chat para Cursos IFSP Catanduva (GPTs Custom)
 
-Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva utilizando RAG sem condificação nas LLM comerciais.
+Criei utilizando as principais plataformas de IA, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva utilizando RAG sem codificação.
 
-Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments
+Grok:   https://grok.com/project/dab8f908-ed7a-49fb-ab0d-ea7aa260fc94?tab=attachments 
 
 ChatGPT:  https://chatgpt.com/g/g-691e570c7fcc8191888a7aa1aad70999-ia-aplicando-em-cursos-do-ifsp-catanduva
 
 Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sharing
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
+
+Destas quatro plataformas, **Grok** é a única que permite a criação de "Projetos" GRATUITAMENTE e ainda permite compartilhar públicamente.
 
 <img src=https://github.com/user-attachments/assets/9d0470cc-bedc-4f12-843b-fa2bcbf2cca6>
 
