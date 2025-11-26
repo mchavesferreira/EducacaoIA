@@ -114,3 +114,15 @@ Regras:
 </details>
 
 
+```html
+<details>
+<summary>Clique para ver um exemplo de geografia</summary>
+
+    Eu sou: professor de Geografia...
+    (etc.)
+
+</details>
+```
+
+---
+
