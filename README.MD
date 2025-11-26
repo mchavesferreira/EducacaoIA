@@ -6,6 +6,8 @@
 
 Neste repositório apresento links, tutoriais sobre as IAs generativas e como utilizá-las da melhor forma na atividade docente.
 
+## <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/Artigo_DeepResearch_IA_na_Educacao.md> Artigo: Guia Prático de Inteligência Artificial para Professores do Ensino Médio e Técnico </a>
+
 ## RAG sem codificar
 
 Criei utilizando as principais IAs comerciais, um espaço onde você pode consultar sobre os cursos do IFSP Catanduva
