@@ -30,7 +30,7 @@ Esses chats utilizam **RAG (Retrieval-Augmented Generation)**, sem necessidade d
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/Artigo_DeepResearch_IA_na_Educacao.md>Artigo sobre o uso da IA na Educação</a>
 
-- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são transformers</a>
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são Transformers</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/explicandoRag.md>O que é RAG?</a>
 
@@ -67,18 +67,50 @@ Use frases curtas e diretas:
 6. **Tom/Idioma:** formal, simples, técnico, PT-BR, etc.
 7. **Critérios de qualidade:** sem invenções, com passos claros.
 
-### Exemplo (educação)
+Melhore pedindo ao próprio a própria LLM direcionar o prompt acima para o o asssunto desejado.
 
-```
-Eu sou: professor do ensino técnico.
-Preciso de: um plano de 30 min sobre IA generativa.
-Contexto: turma iniciante; sem computadores; foco em ética e usos práticos.
-Responda desta forma: 5 objetivos + 3 atividades + checklist de avaliação.
-Fontes/Verificação: inclua 2 referências introdutórias.
+Exemplo:
+
+<details><summary>Clique para ver um exemplo de geografia</summary>
+<p>
+```ruby
+
+Eu sou: professor de Geografia do IFSP–Catanduva, atuando no 2º ano do Curso Técnico em Química Integrado ao Ensino Médio.
+
+Preciso de: um plano de aula de 30 a 40 minutos para um tema específico da ementa de Geografia do 2º ano (por exemplo: uso e ocupação do solo, indústria e impactos ambientais, dinâmica climática regional, bacias hidrográficas, urbanização e poluição, etc.).
+
+Contexto:
+• Turma iniciada na integração entre Geografia e Química.
+• Aula sem computadores, com materiais simples.
+• Necessário articular processos territoriais (Geografia) com conteúdos químicos presentes nas disciplinas técnicas do 2º ano (Microbiologia e Bioquímica, Química Geral Experimental, Química Analítica Qualitativa e Quantitativa).
+• Considerar o território de Catanduva e região (bacias, uso do solo, relevância industrial).
+
+Responda desta forma:
+
+Ementa resumida (2–3 linhas) baseada no PPC integrado (Geografia).
+
+5 objetivos de aprendizagem articulando fenômenos espaciais e processos químicos/ambientais.
+
+3 atividades práticas de baixo custo, sem laboratório.
+
+Checklist de avaliação: indicadores observáveis.
+
+Competências/habilidades alinhadas ao PPC (Geografia + formação técnica), incluindo a carga horária prevista para o encontro.
+
+Fontes/Verificação:
+Use exclusivamente o PPC do Técnico em Química Integrado ao EM do IFSP–Catanduva. Quando possível, indique trechos da ementa ou da abordagem ambiental do PPC, como:
+– Integração Geografia + Química na discussão das dinâmicas da natureza, impactos ambientais e uso do território.
+
 Tom/Idioma: formal, PT-BR.
-Regras: não invente; confirme conceitos básicos; reflita 1 minuto antes de responder.
+
+Regras:
+• Não inventar conteúdos fora do PPC.
+• Confirmar conceitos básicos (ciclos naturais, impactos ambientais, territorialidades).
+• Relacionar Geografia aos conteúdos químicos pertinentes do 2º ano sempre que possível.
+• Refletir 1 minuto antes de estruturar a resposta.
+
 ```
-
-
+</p>
+</details>
 
 
