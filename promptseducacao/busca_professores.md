@@ -131,3 +131,6 @@ INICIAR com T1 agora.
 > Como usar: cole o bloco acima no chat onde seus @GPTs custom estão disponíveis. Eles irão responder em cadeia (T1→T2→T3→T4) dentro do mesmo fio, cada um limitado ao seu papel.
 
 ---
+
+
+[ <a href=https://github.com/mchavesferreira/educacaoia/>Home ]
