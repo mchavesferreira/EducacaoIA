@@ -72,7 +72,7 @@ Melhore pedindo ao próprio a própria LLM direcionar o prompt acima para o o as
 Exemplo:
 
 <details><summary>Clique para ver um exemplo de geografia</summary>
-<p>
+
 ```
 
 Eu sou: professor de Geografia do IFSP–Catanduva, atuando no 2º ano do Curso Técnico em Química Integrado ao Ensino Médio.
@@ -110,7 +110,7 @@ Regras:
 • Refletir 1 minuto antes de estruturar a resposta.
 
 ```
-</p>
+
 </details>
 
 
