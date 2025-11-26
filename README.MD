@@ -30,6 +30,8 @@ Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/exemplos_treinamento_finetunning.md>FINE-TUNING</a>
 
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/gpu_npu.md>CPU, GPU, NPU</a>
+
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
