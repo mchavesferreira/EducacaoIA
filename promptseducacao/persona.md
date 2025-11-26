@@ -71,4 +71,4 @@ Ao definir uma persona, você está **estreitando o escopo** da resposta do mode
 
 ---
 
-Se quiser, posso criar **prompts personalizados** para sua disciplina ou área de atuação (ex: Biologia, Filosofia, Ensino Técnico, etc). Deseja isso?
+[ <a href=https://github.com/mchavesferreira/educacaoia/>Home ]
