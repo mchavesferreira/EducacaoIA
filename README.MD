@@ -20,12 +20,15 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
+## Indices
 
-<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são transformers</a>
 
-<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
-<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md> promts de busca</a>
+- a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/tags.md> Tags de Prompt para IA</a>
 
-<a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/guia_prompt_chatgpt5.1.md> Orientações para o novo chatgpt 5.1
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md>Guia de prompts utilizados para construção dos GPTs Custom</a>
+
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/guia_prompt_chatgpt5.1.md> Orientações para o novo chatgpt 5.1
 
