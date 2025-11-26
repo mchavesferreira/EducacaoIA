@@ -32,6 +32,8 @@ Esses chats utilizam **RAG (Retrieval-Augmented Generation)**, sem necessidade d
 
 ## Tópicos da palestra
 
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/Artigo_DeepResearch_IA_na_Educacao.md>Artigo Reflexão sobre IA na Educação</a>
+
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são transformers</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/explicandoRag.md>O que é RAG?</a>
