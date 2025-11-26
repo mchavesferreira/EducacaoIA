@@ -20,10 +20,15 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
+<img src=https://github.com/user-attachments/assets/9d0470cc-bedc-4f12-843b-fa2bcbf2cca6>
+
 ## Indices
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/transformers.md> O que são transformers</a>
 
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/explicandoRag.md>O que é RAG?</a>
+
+- <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/gpt_gpu/exemplos_treinamento_finetunning.md>FINE-TUNING</a>
 
 - <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/persona.md>Utilizando Personas para Aprendizagem com ChatGPT</a>
 
