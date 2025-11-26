@@ -1,5 +1,4 @@
-
-# Palestra Curso de capacitação: Utilizando ferramentas de IA na educação
+# Formaão Continuada: Utilizando ferramentas de IA na educação
 
 ## Autor: Marcos Aparecido Chaves Ferreira
 
