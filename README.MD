@@ -20,6 +20,9 @@ Gemini:   https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sh
 
 Perplexity: https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
+
+Utilizando Personas para Aprendizagem com GPT
+
 ## Como utilizar RAG sem condificação nas LLM comerciais
 
 <a href=https://github.com/mchavesferreira/EducacaoIA/blob/main/promptseducacao/busca_professores.md> promts de busca</a>
