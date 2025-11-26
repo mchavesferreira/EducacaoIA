@@ -162,7 +162,6 @@ Esse fluxo é repetido por várias camadas de Decoder para gerar representaçõe
 
 ## prompt
 
-Ótimas perguntas! Vamos esclarecer esses pontos em detalhes.
 
 ### 1. **Uso do Encoder e Decoder no GPT-3.5**
 
